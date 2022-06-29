@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MaxziApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MaxziApplication.class, args);
+		//SpringApplication.run(MaxziApplication.class, args);
+		SpringApplication.run("Hello World");
 	}
 
 }
